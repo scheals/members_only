@@ -1,24 +1,5 @@
-# README
+# Members Only!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Project spec taken from [The Odin Project](https://www.theodinproject.com/lessons/ruby-on-rails-members-only).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Second go at it since I had such a break with Rails that nothing made sense to me anymore.
